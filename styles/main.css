@@ -1,0 +1,62 @@
+body{
+background-color: #D3D3D3;
+}
+.buy {
+   color: darkred
+   ;
+}
+.online-shop {
+   text-align: center;
+   font-family: system-ui;
+   font-size: 24px;
+}
+.forms {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.site-form {
+   border: 1.5px solid darkgray;
+   color: #36a6f2;
+   border-radius: 5px;
+   width: 140px;
+    height: 25px;
+}
+.button {
+width: 100px;
+height: 35px;
+background-color: #5CB85C;
+border: 0;
+cursor: pointer;
+border-radius: 5px;
+}
+.family-father {
+   margin:5px 521px ;
+}
+.family-title {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+text-align: center;
+}
+.family-list {
+   font-family: fantasy;
+   font-size: 20px;
+   color:chocolate;
+}
+.the-next-stage {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+   text-align: center;
+}
+.list-input {
+   padding-left: 50px;
+   font-family:fantasy;
+}
+.text-area-coment {
+   margin: 10px -45px;
+   width: 400px;
+   height: 200px;
+   border-radius: 10px;
+   text-align: center;
+}
